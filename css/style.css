@@ -1,0 +1,12 @@
+body{
+  background-color:#ff0000;
+  margin: 20px auto;
+  text-align: center;
+  padding: 20px;
+}
+input{
+  padding: 20px;
+}
+.test{
+  padding: 30px;
+}
